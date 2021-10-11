@@ -62,5 +62,4 @@ public class Worker extends Object{
         System.out.println(testString.equals(stringBuilder.toString()));
 
     }
-
 }
