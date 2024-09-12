@@ -30,6 +30,7 @@ public class HomeWork05 {
             this.salary = salary;
             this.age = age;
         }
+
         public int getAge() {
             return age;
         }
